@@ -58,3 +58,4 @@ Example response:
 - Ensure Ollama is running locally and the specified model is pulled.
 - The legacy Gradio script in `customer_support_bot.py` is unchanged. We can refactor it next to call this API or modernize it with `gradio>=4` and env config.
 # Customer-support-chatbot
+# Customer-support-chatbot
